@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+body {
+  text-align: center;
+  background-color: #000000;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3615cb34-9b00-4721-90dd-e0547041b2db/d5417i-b2c51a0c-9b83-4899-b350-2f81a0b4d2f6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM2MTVjYjM0LTliMDAtNDcyMS05MGRkLWUwNTQ3MDQxYjJkYlwvZDU0MTdpLWIyYzUxYTBjLTliODMtNDg5OS1iMzUwLTJmODFhMGI0ZDJmNi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ._4c38DlniAKCNhgM4SxABz_zS62Hu7oIbahNs-x0NzA") ;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
+
+h1 {
+  font-size: 8rem;
+  color: #ffffff;
+  font-family: 'New Rocker', cursive;
+  text-shadow: 1px 0 #ff0000;
+  text-align: center;
+
+}
+
+
+.w {
+  background-image: url("images/tom1.png"); 
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  
+  background-image: url("images/crash.png");
+}
+
+.k {
+  
+  background-image: url("images/kick.png");
+}
+
+.l {
+  background-image: url("images/snare.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  font-size: 5rem;
+  font-family: 'New Rocker', cursive;
+  font-weight: 1;
+  color: #ffffff;
+  text-shadow: 3px 0 #000000;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 11px;
+  background-color: rgb(0, 0, 0);
+}
